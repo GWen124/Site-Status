@@ -1,5 +1,5 @@
-// 配置
-window.Config = {
+  // 配置
+  window.Config = {
 
   // 站点名
   SiteName: 'Site Up Status',
