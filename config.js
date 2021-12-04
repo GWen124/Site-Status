@@ -29,7 +29,7 @@ window.Config = {
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/GWen124/geekyouth/'
+      url: 'https://github.com/GWen124/'
     },
     {
       text: '项目主页',
