@@ -4,11 +4,10 @@
 
 ## 如何复用这个项目？  
 1- fork 一份到你的 github 账号下；  
-2- 修改配置文件：config.js，主要是修改 apikey 内容，强烈建议使用 <a href="https://uptimerobot.com/dashboard#mySettings">Read-Only key</a> 
-3- 打开github-pages，你就可以愉快的体验了
+2- 修改配置文件：config.js，主要是修改 apikey 内容，强烈建议使用 <a href="https://uptimerobot.com/dashboard#mySettings">Read-Only key</a>；
+3- 打开github-pages，你就可以愉快的体验了！
 
 
 
 # 说明：
-
 本项目是来自原作的简化版：<https://github.com/yb/uptime-status>
