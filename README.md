@@ -3,9 +3,9 @@
 - 依赖 github 静态页面，天然支持穿透天朝防火墙，理论上任何暴露于公网的墙外网站和端口服务都可以监控。  
 
 ## 如何复用这个项目？  
-1 fork 一份到你的 github 账号下；  
-2 修改配置文件：config.js，主要是修改 apikey 内容，强烈建议使用 <a href="https://uptimerobot.com/dashboard#mySettings">Read-Only key</a>；
-3 打开github-pages，你就可以愉快的体验了！
+- fork 一份到你的 github 账号下；  
+- 修改配置文件：config.js，主要是修改 apikey 内容，强烈建议使用 <a href="https://uptimerobot.com/dashboard#mySettings">Read-Only key</a>；
+- 打开github-pages，你就可以愉快的体验了！
 
 
 
