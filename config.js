@@ -13,12 +13,6 @@
   // 详见 https://github.com/yb/uptime-status/ 说明
   status.gwen.ink: 'api.uptimerobot.com',
 
-  // UptimeRobot Api Keys
-  // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
-  ApiKeys: [
-    'ur1534617-b5e59455de9ad6ac4ce0d590',
-  ],
-
   // 是否显示监测站点的链接，true显示，false不显示
   ShowLink: false,
 
