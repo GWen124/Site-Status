@@ -13,7 +13,7 @@ window.Config = {
     'ur1534617-b5e59455de9ad6ac4ce0d590'
   ],
 
-  // 是否显示监测站点的链接
+  // 是否显示监测站点的链接，true显示，false不显示
   ShowLink: false,
 
   // 日志天数
