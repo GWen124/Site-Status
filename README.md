@@ -10,8 +10,4 @@
 
 
 # 说明：
-<<<<<<< HEAD
 - 本项目来自：<a href="https://github.com/yb/uptime-status">Uptime Status</a>。
-=======
-- 本项目来自：<https://github.com/yb/uptime-status>Uptime Status</a>。
->>>>>>> 9d848bdd3c016349e8e65d0ffd59c7fe2c90b490
