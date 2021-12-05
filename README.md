@@ -11,4 +11,4 @@
 
 # 说明：
 - 本项目来自<a href="https://github.com/geekyouth">geekyouth</a>：<a href="https://github.com/geekyouth/uptime-status">Uptime Status</a>。
-- 作者<a href="https://github.com/yb">yb</a>：<a href="https://github.com/yb/uptime-status">Uptime Status</a>。
+- 项目作者<a href="https://github.com/yb">yb</a>：<a href="https://github.com/yb/uptime-status">Uptime Status</a>。
