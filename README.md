@@ -11,4 +11,4 @@
 
 # 说明：
 
-本项目是来自原作的简化版：<https://github.com/yb/uptime-status>
+本项目来自：<https://github.com/yb/uptime-status>
