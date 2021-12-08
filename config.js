@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'Site Up Status',
+  SiteName: 'Site Status',
 
   // 站点链接
   SiteUrl: '/',
