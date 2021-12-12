@@ -4,7 +4,7 @@
 
 ## 如何复用这个项目？  
 - fork 一份到你的 github 账号下；  
-- 修改配置文件：config.js，主要是修改 apikey 内容，强烈建议使用 <a href="https://uptimerobot.com/dashboard#mySettings">Read-Only key</a>；
+- 修改配置文件：config.js，主要是修改 apikey 内容，强烈建议使用 <a href="https://uptimerobot.com/dashboard#mySettings">UptimeRobot</a>；
 - 打开github-pages，你就可以愉快的体验了！
 
 
