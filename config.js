@@ -24,8 +24,8 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Server Status',
-      url: 'https://server.gwen.ink/'
+      text: 'StatusLive',
+      url: 'https://statuslive.gwen.ink/'
     },
     {
       text: 'GitHub',
