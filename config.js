@@ -28,12 +28,12 @@ window.Config = {
       url: 'https://statuslive.gwen.ink/'
     },
     {
-      text: 'GitHub',
-      url: 'https://github.com/GWen124/'
+      text: 'Server Status',
+      url: 'https://server.gwen.ink/'
     },
     {
-      text: '项目主页',
-      url: 'https://github.com/GWen124/Site-Up-Status'
+      text: 'GitHub',
+      url: 'https://github.com/GWen124/'
     }
   ]
 };
