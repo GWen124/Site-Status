@@ -28,7 +28,7 @@ window.Config = {
       url: 'https://statuslive.gwen.ink/'
     },
     {
-      text: 'Server Status',
+      text: 'ServerStatus',
       url: 'https://server.gwen.ink/'
     },
     {
