@@ -28,10 +28,6 @@ window.Config = {
       url: 'https://statuslive.gwen.ink/'
     },
     {
-      text: 'ServerStatus',
-      url: 'https://server.gwen.ink/'
-    },
-    {
       text: 'GitHub',
       url: 'https://github.com/GWen124/'
     }
