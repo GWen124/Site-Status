@@ -24,6 +24,10 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
+      text: 'Blog',
+      url: 'https:/blog.gwen.ink/'
+    },
+    {
       text: 'StatusLive',
       url: 'https://statuslive.gwen.ink/'
     },
