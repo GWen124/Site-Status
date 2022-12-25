@@ -25,7 +25,7 @@ window.Config = {
   Navi: [
     {
       text: 'Blog',
-      url: 'https:/blog.gwen.ink/'
+      url: 'https://blog.gwen.ink/'
     },
     {
       text: 'StatusLive',
