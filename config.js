@@ -25,11 +25,11 @@ window.Config = {
   Navi: [
     {
       text: 'Blog',
-      url: 'https://blog.gwen.ink/'
+      url: 'https://blog.gw124.top/'
     },
     {
       text: 'StatusLive',
-      url: 'https://statuslive.gwen.ink/'
+      url: 'https://statuslive.gw124.top'
     },
     {
       text: 'GitHub',
