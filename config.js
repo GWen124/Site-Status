@@ -24,6 +24,10 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
+      text: 'Home',
+      url: 'https://gw124.top/'
+    },
+    {
       text: 'Blog',
       url: 'https://blog.gw124.top/'
     },
