@@ -28,10 +28,6 @@ window.Config = {
       url: 'https://gw124.top/'
     },
     {
-      text: 'Blog',
-      url: 'https://blog.gw124.top/'
-    },
-    {
       text: 'StatusLive',
       url: 'https://statuslive.gw124.top'
     },
