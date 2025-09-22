@@ -7240,7 +7240,7 @@
                     , o.a.createElement("p", null, "\xa9 2020 "
                              , o.a.createElement(l, {
                              to: "https://sitestatus.gw124.top",
-                             text: "STATUS.GWEN.TOP"
+                             text: "SITESTATUS.GW124.TOP"
                          })
                     )
                 )
