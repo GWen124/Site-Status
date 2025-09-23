@@ -7239,7 +7239,7 @@
                         , " 接口制作，检测频率 5 分钟")
                     , o.a.createElement("p", null, "\xa9 2020 "
                              , o.a.createElement(l, {
-                             to: "https://sitestatus.gw124.top",
+                             to: "https://gw124.top",
                              text: "SITESTATUS.GW124.TOP"
                          })
                     )
